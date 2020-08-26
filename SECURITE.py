@@ -1,5 +1,5 @@
-print("© 2020 https://github.com/Stikyboi")
-print("by Stikyboi")
+print("© 2020 https://github.com/DevChef0309")
+print("by DevChef0309")
 
 import discord
 import time
